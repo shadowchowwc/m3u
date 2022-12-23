@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="小儿郎丶丶" tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/douyu_221869.jpg" group-title="梦幻西游手游",小儿郎丶丶
-https://epg.112114.xyz/douyu/221869
+https://diyp.112114.xyz/douyu/221869
 
 #EXTINF:-1 tvg-id="" tvg-name="阿波酱3" tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/douyu_6652328.jpg" group-title="梦幻西游手游",阿波酱3
-https://epg.112114.xyz/douyu/221869
+https://diyp.112114.xyz/douyu/221869
 
 #EXTINF:-1 tvg-id="" tvg-name="踏上征途167",tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/douyu_957090.jpg" group-title="DOTA2",踏上征途167
-https://epg.112114.xyz/douyu/957090
+https://diyp.112114.xyz/douyu/957090
 
 #EXTINF:-1 tvg-id="" tvg-name="龚建ZSMJ" tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/douyu_52876.jpg" group-title="DOTA2",龚建ZSMJ
-https://epg.112114.xyz/douyu/52876
+https://diyp.112114.xyz/douyu/52876
 
 #EXTINF:-1 tvg-id="" tvg-name="轻语丶619" tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/douyu_101367.jpg" group-title="PUBG",轻语丶619
-https://epg.112114.xyz/douyu/101367
+https://diyp.112114.xyz/douyu/101367
 
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="地方卫视",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
