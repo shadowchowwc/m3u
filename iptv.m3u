@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="小儿郎丶丶" tvg-logo="https://apic.douyucdn.cn/upload/avatar/012/25/63/51_avatar_big.jpg" group-title="梦幻西游手游",小儿郎丶丶
+https://epg.112114.xyz/douyu/221869
+
+#EXTINF:-1 tvg-id="" tvg-name="阿波酱3" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/bf02ba83583e4cc7b3878772420661d8_big.jpg" group-title="梦幻西游手游",阿波酱3
+https://epg.112114.xyz/douyu/221869
+
+#EXTINF:-1 tvg-id="" tvg-name="踏上征途167",tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202201/70a4391a3bd1440db393dd5b4b37a2f6_big.jpg" group-title="DOTA2",踏上征途167
+https://epg.112114.xyz/douyu/957090
+
+#EXTINF:-1 tvg-id="" tvg-name="龚建ZSMJ" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201702/05/20/c11aca7afd581a400ed210309ab81b66_big.jpg" group-title="DOTA2",龚建ZSMJ
+https://epg.112114.xyz/douyu/52876
+
+#EXTINF:-1 tvg-id="" tvg-name="轻语丶619" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201807/24d8e7a12f0c392b0ac317b70e12ff67_big.jpg" group-title="PUBG",轻语丶619
+https://epg.112114.xyz/douyu/101367
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="地方卫视",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="地方卫视",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="地方卫视",江苏卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
+http://23.237.10.66:16106
+
+#EXTINF:-1 tvg-id="126" tvg-name="清华大学电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="高校",清华大学电视台
+https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
