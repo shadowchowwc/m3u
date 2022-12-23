@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="小儿郎丶丶" tvg-logo="https://apic.douyucdn.cn/upload/avatar/012/25/63/51_avatar_big.jpg" group-title="梦幻西游手游",小儿郎丶丶
+#EXTINF:-1 tvg-id="" tvg-name="小儿郎丶丶" tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/douyu_221869.jpg?token=GHSAT0AAAAAAB4WIDAQSUE6V3DCGWEH5CNUY5FURHQ" group-title="梦幻西游手游",小儿郎丶丶
 https://epg.112114.xyz/douyu/221869
 
-#EXTINF:-1 tvg-id="" tvg-name="阿波酱3" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/bf02ba83583e4cc7b3878772420661d8_big.jpg" group-title="梦幻西游手游",阿波酱3
+#EXTINF:-1 tvg-id="" tvg-name="阿波酱3" tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/douyu_6652328.jpg?token=GHSAT0AAAAAAB4WIDAQXMHGTCQOZYP4O65MY5FUSOQ" group-title="梦幻西游手游",阿波酱3
 https://epg.112114.xyz/douyu/221869
 
 #EXTINF:-1 tvg-id="" tvg-name="踏上征途167",tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202201/70a4391a3bd1440db393dd5b4b37a2f6_big.jpg" group-title="DOTA2",踏上征途167
@@ -27,5 +27,5 @@ http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
 http://23.237.10.66:16106
 
-#EXTINF:-1 tvg-id="126" tvg-name="清华大学电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="高校",清华大学电视台
+#EXTINF:-1 tvg-id="126" tvg-name="清华大学电视台" tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/tsinghuatv.jpg?token=GHSAT0AAAAAAB4WIDARPUZD7TGE3O5SG3SQY5FUR6Q" group-title="高校",清华大学电视台
 https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
