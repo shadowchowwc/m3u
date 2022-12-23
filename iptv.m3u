@@ -4,7 +4,7 @@
 https://diyp.112114.xyz/douyu/221869
 
 #EXTINF:-1 tvg-id="" tvg-name="阿波酱3" tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/douyu_6652328.jpg" group-title="梦幻西游手游",阿波酱3
-https://diyp.112114.xyz/douyu/221869
+https://diyp.112114.xyz/douyu/6652328
 
 #EXTINF:-1 tvg-id="" tvg-name="踏上征途167",tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/douyu_957090.jpg" group-title="DOTA2",踏上征途167
 https://diyp.112114.xyz/douyu/957090
@@ -18,14 +18,8 @@ https://diyp.112114.xyz/douyu/123888
 #EXTINF:-1 tvg-id="" tvg-name="Maybeee111" tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/huya_211888.jpg" group-title="DOTA2",Maybeee111
 https://diyp.112114.xyz/douyu/211888
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/huya_347444.jpg" group-title="DOTA1",乖
-https://diyp.112114.xyz/huya/347444
-
 #EXTINF:-1 tvg-id="" tvg-name="轻语丶619" tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/douyu_101367.jpg" group-title="PUBG",轻语丶619
 https://diyp.112114.xyz/douyu/101367
-
-#EXTINF:-1 tvg-id="" tvg-name="4AMGodv" tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/huya_7911.jpg" group-title="PUBG",4AMGodv
-https://diyp.112114.xyz/huya/7911
 
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="地方卫视",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
@@ -38,6 +32,3 @@ http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
 http://23.237.10.66:16106
-
-#EXTINF:-1 tvg-id="126" tvg-name="清华大学电视台" tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/tsinghuatv.jpg" group-title="高校",清华大学电视台
-https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
