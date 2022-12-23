@@ -15,6 +15,9 @@ https://diyp.112114.xyz/douyu/52876
 #EXTINF:-1 tvg-id="" tvg-name="轻语丶619" tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/douyu_101367.jpg" group-title="PUBG",轻语丶619
 https://diyp.112114.xyz/douyu/101367
 
+#EXTINF:-1 tvg-id="" tvg-name="4AMGodv" tvg-logo="https://raw.githubusercontent.com/shadowchowwc/m3u/main/logo/huya_7911.jpg" group-title="PUBG",4AMGodv
+https://diyp.112114.xyz/huya/7911
+
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="地方卫视",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
