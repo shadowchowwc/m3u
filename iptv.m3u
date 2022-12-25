@@ -3,6 +3,21 @@
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
 http://23.237.10.66:16106
 
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="香港",明珠台
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港",无线新闻台
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="香港",无线财经资讯台
+https://cdn.hklive.tv/xxxx/85/index.m3u8
+
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港",J2
+https://cdn.hklive.tv/xxxx/82/index.m3u8
+
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 
@@ -24,6 +39,9 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+
+#EXTINF:-1 tvg-id="6134" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="台湾",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="台湾",大爱一台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
