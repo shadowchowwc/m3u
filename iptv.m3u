@@ -3,21 +3,6 @@
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
 http://23.237.10.66:16106
 
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="香港",明珠台
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港",无线新闻台
-https://cdn.hklive.tv/xxxx/83/index.m3u8
-
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="香港",无线财经资讯台
-https://cdn.hklive.tv/xxxx/85/index.m3u8
-
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港",J2
-https://cdn.hklive.tv/xxxx/82/index.m3u8
-
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 
@@ -26,9 +11,6 @@ http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰卫视资讯台
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="香港",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="台湾",TVBS新闻台
@@ -88,6 +70,9 @@ http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8
 
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
 http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
 http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8
@@ -254,15 +239,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png" group-title="卫视",教育2台
 http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="山东文旅" tvg-logo="" group-title="山东",山东文旅
-http://150.138.8.143/00/SNM/CHANNEL00000056/index.m3u8
-
-#EXTINF:-1 tvg-id="1434" tvg-name="山东生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" group-title="山东",山东生活
-http://150.138.8.143/00/SNM/CHANNEL00000055/index.m3u8
-
-#EXTINF:-1 tvg-id="1433" tvg-name="山东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" group-title="山东",山东综艺
-http://150.138.8.143/00/SNM/CHANNEL00000054/index.m3u8
-
 #EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="山东",山东体育
 http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
 
@@ -271,9 +247,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 
 #EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="山东",山东齐鲁
 http://150.138.8.143/00/SNM/CHANNEL00000313/index.m3u8
-
-#EXTINF:-1 tvg-id="1429" tvg-name="山东农科" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" group-title="山东",山东农科
-http://150.138.8.143/00/SNM/CHANNEL00000058/index.m3u8
 
 #EXTINF:-1 tvg-id="1431" tvg-name="山东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" group-title="山东",山东少儿
 http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
